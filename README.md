@@ -139,7 +139,7 @@ Coloca solo uno o dos archivos `.mp3` generados en la raíz del USB para probar 
 
 ## 🙌 Créditos
 
-* Código desarrollado por \[Tu Nombre o Usuario]
+* Código desarrollado por \[3UR12]
 * Basado en herramientas y librerías open source:
 
   * [FFmpeg](https://ffmpeg.org/) para la conversión de audio
