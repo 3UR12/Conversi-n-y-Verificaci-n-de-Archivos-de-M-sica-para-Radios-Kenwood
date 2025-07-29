@@ -1,4 +1,4 @@
-# 📁 README.md — Conversión y Verificación de Archivos de Música para Radios Kenwood
+# 📁 Conversión y Verificación de Archivos de Música para Radios Kenwood
 
 ---
 
