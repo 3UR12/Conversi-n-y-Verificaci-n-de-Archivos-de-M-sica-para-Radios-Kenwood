@@ -156,7 +156,7 @@ def analizar_audio(ruta_archivo):
 
 # Ejemplo de uso
 if __name__ == "__main__":
-    analizar_audio(r"D:\relax\stivijoes-- Cómo Sienta Ser de Hielo.mp3")
+    analizar_audio(r"D:\relax\Music.mp3")
 ```
 
 ---
